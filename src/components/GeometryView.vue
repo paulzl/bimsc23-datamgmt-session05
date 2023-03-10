@@ -38,7 +38,7 @@ function init() {
   controls = new OrbitControls(camera, renderer.domElement);
 
   // add fun shape
-  createBox(25, 25, 25);
+  createBox(22, 20, 12);
   animate();
 }
 

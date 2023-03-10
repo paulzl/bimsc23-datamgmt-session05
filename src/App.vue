@@ -15,7 +15,7 @@ import { ref } from "vue";
 
 // Define variables and constants
 var count = ref(0);
-var firstSlider = ref(25);
+var firstSlider = ref(15);
 var runToggle = ref(false);
 
 // Define functions
